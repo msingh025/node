@@ -6,7 +6,8 @@
            'ejs',
            'session-manager',
            'sqlite3',
-           'body-parser'
+           'body-parser',
+           'connect-busboy'
            
            ]	
 }
