@@ -23,6 +23,3 @@ function download(req ,res, params){
 		
 }
 
-//09032626607 shailendra pratap singh.
-//rana pratap singh. sumbhi mehnaj_pur.
-//
